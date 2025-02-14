@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # coffee_shop
 
 A new Flutter project.
@@ -21,6 +22,8 @@ samples, guidance on mobile development, and a full API reference.
 Flutter-based app (demo)
 >>>>>>> a4aa1eb706e3e4c65294ae180cff234538f6cd8c
 =======
+=======
+>>>>>>> a38de99d0ede4025d078926877e3c8a67887466a
 # ☕ Coffee Shop App
 
 This is a **Flutter-based** mobile application for a Coffee Shop. The app allows users to browse through the shop, add items to their cart, and manage their orders. It is designed to provide a seamless shopping experience with a clean and intuitive user interface.
@@ -86,4 +89,14 @@ Contributions are welcome! If you'd like to contribute:
 2. Create a new branch.
 3. Commit your changes.
 4. Push to your branch and submit a pull request.
+<<<<<<< HEAD
 >>>>>>> 184bf8cb1bc4e209c91f5e476fcb50a1750cedf0
+=======
+
+## 📜 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+### 🚀 Happy Coding!
+>>>>>>> a38de99d0ede4025d078926877e3c8a67887466a
